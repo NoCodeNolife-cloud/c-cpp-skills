@@ -1,0 +1,4 @@
+Enter two numbers: 3 6
+Harmonic mean of 3 and 6 is 4
+Enter next set of numbers <q to quit>: 10 -10
+untenable arguments to hmean()

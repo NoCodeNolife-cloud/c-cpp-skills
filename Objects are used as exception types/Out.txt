@@ -1,0 +1,12 @@
+Enter two numbers: 4 12
+Harmonic mean of 4 and 12 is 6
+Geometric mean of 4 and 12 is 6.9282
+Enter next set of numbers <q to quit>: 5 -5
+hmean(5, -5): invalid arguments: a = -b
+Try again.
+5 -2
+Harmonic mean of 5 and -2 is -6.66667
+gmean() arguments should be >= 0
+Values used: 5, -2
+Sorry, you don't get to play any more.
+Bye!

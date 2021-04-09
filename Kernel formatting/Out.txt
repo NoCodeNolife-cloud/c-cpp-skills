@@ -1,0 +1,3 @@
+What's the name of your hard disk? Datarapture
+What's its capacity in GB? 2000
+The hard disk Datarapture has a capacicy of 2000 gigabytes.

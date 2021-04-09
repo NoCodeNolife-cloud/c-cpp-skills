@@ -1,0 +1,5 @@
+﻿  function.cpp
+  Static.cpp
+E:\项目\c_plus_plus\Skills\Static\Static.cpp(3,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  Static.vcxproj -> E:\项目\c_plus_plus\Skills\Static\Debug\Static.exe

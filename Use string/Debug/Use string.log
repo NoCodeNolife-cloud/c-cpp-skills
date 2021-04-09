@@ -1,0 +1,3 @@
+﻿  Use string.cpp
+E:\项目\visual studio Project\Workmanship\Use string\Use string.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Use string.vcxproj -> E:\项目\visual studio Project\Workmanship\Use string\Debug\Use string.exe

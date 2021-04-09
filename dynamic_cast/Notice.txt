@@ -1,0 +1,3 @@
+dynamic_cast用法
+classname1 * pm=dynamic_cast<classname1*>(pg)
+其中pg指向一个对象

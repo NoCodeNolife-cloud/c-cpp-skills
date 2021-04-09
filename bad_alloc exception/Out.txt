@@ -1,0 +1,4 @@
+Trying to get a big block of memory:
+Go past the new request:
+MEmory successfully allocated
+4

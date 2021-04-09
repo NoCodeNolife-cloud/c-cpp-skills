@@ -1,0 +1,7 @@
+After hfi1 declared: int count: 1; double count : 0
+After hfi2 declared: int count: 2; double count : 0
+After hfdb declared: int count: 2; double count : 1
+HasFriend<int>: 10
+HasFriend<int>: 20
+HasFriend<double>: 10.5
+HasFriend<double>: 10.5

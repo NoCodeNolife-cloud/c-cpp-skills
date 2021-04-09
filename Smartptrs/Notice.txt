@@ -1,0 +1,4 @@
+ÖÇÄÜÖ¸Õë
+auto_ptr<>
+share_ptr<>
+unique_ptr<>s

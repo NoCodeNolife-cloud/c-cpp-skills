@@ -1,0 +1,6 @@
+"Furry Friends" is $20.4000!
+"Fiery Friends" is $1.90000!
+"Furry Friends" is $20.!
+"Fiery Friends" is $1.9!
+
+time: 0.26

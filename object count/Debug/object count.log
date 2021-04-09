@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\Skills\object count\Main.cpp(25,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\Skills\object count\Main.cpp(28,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\Skills\object count\Main.cpp(50,20): warning C4018: “<”: 有符号/无符号不匹配
+  object count.vcxproj -> E:\项目\c_plus_plus\Skills\object count\Debug\object count.exe

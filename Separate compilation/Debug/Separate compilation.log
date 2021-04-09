@@ -1,0 +1,5 @@
+﻿  file.cpp
+  Separate compilation.cpp
+E:\项目\visual studio Project\Workmanship\Separate compilation\Separate compilation.cpp(3,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  Separate compilation.vcxproj -> E:\项目\visual studio Project\Workmanship\Separate compilation\Debug\Separate compilation.exe

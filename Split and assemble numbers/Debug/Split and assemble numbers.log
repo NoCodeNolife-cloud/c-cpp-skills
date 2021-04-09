@@ -1,0 +1,3 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\Skills\Split and assemble numbers\Main.cpp(27,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Split and assemble numbers.vcxproj -> E:\项目\c_plus_plus\Skills\Split and assemble numbers\Debug\Split and assemble numbers.exe

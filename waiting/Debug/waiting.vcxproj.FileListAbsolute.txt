@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Workmanship\waiting\Debug\waiting.exe
+E:\项目\visual studio Project\Workmanship\waiting\Debug\waiting.pdb

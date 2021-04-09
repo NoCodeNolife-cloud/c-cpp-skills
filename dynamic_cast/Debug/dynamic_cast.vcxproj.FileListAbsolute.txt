@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Workmanship\dynamic_cast\Debug\dynamic_cast.exe
+E:\项目\visual studio Project\Workmanship\dynamic_cast\Debug\dynamic_cast.pdb

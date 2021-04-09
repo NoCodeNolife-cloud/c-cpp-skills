@@ -1,0 +1,5 @@
+将模板用作参数
+template<template<typename T>class Thing>
+class Crab
+
+template<typename T>class是类型，Thing是参数

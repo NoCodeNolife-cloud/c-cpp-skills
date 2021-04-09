@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Workmanship\cout default formats\Debug\cout default formats.exe
+E:\项目\visual studio Project\Workmanship\cout default formats\Debug\cout default formats.pdb

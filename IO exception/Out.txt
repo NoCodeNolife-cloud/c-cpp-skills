@@ -1,0 +1,5 @@
+Enter numbers: 20 30 40 pi 6
+ios_base::failbit set: iostream stream error
+O! the horror!
+Last value entered = 40
+Sum = 90

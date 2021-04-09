@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\Skills\Decimal to hexadecimal conversion\Main.cpp(37,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\Skills\Decimal to hexadecimal conversion\Main.cpp(46,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\Skills\Decimal to hexadecimal conversion\Main.cpp(47,1): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Decimal to hexadecimal conversion.vcxproj -> E:\项目\c_plus_plus\Skills\Decimal to hexadecimal conversion\Debug\Decimal to hexadecimal conversion.exe

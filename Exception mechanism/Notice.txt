@@ -1,0 +1,5 @@
+如果try后面的语句导致异常被引发，则后面的catch块将对异常进行处理。如果程序在try块的外面调用hmean()，将无法处理异常
+if(a==-b){
+throw "bad hmean() arguments: a=-b not allowed";
+}
+其中被引发的异常是字符串"bad hmean() arguments: a=-b not allowed"。异常类型可以是字符串或其他C++类型

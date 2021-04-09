@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\项目\c_plus_plus\Skills\Computer representation of binary\Main.cpp(33,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\Skills\Computer representation of binary\Main.cpp(41,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\c_plus_plus\Skills\Computer representation of binary\Main.cpp(54,21): warning C4018: “<”: 有符号/无符号不匹配
+  Computer representation of binary.vcxproj -> E:\项目\c_plus_plus\Skills\Computer representation of binary\Debug\Computer representation of binary.exe

@@ -1,0 +1,22 @@
+demo found in block in main() created
+Enter two numbers: 6 12
+demo found in means() created
+demo found in means() lives!
+demo found in means() destroyed
+The mean mean of 6 and 12 is 8.49509
+Enter next pair: 6 -6
+demo found in means() created
+hmean(6, -6): invalid arguments: a = -b
+Caught in means()
+demo found in means() destroyed
+hmean(6, -6): invalid arguments: a = -b
+Try again.
+6 -8
+demo found in means() created
+demo found in means() destroyed
+gmean() arguments should be >= 0
+Values used: 6, -8
+Sorry, you don't get to play any more.
+demo found in block in main() lives!
+demo found in block in main() destroyed
+Bye!

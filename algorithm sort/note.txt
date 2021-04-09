@@ -1,0 +1,7 @@
+algorithm
+sort(ptr_begin,ptr_end,mode());
+=>
+mode=>{
+mode=less//ÉıĞò
+mode=greater//½µĞò
+}f

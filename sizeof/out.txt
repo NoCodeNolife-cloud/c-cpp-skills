@@ -1,0 +1,5 @@
+sizeof(int)=4
+sizeof(align_struct)=8
+sizeof(array)=16
+sizeof(array[0])=4
+count=4

@@ -1,0 +1,5 @@
+异常
+受控方式运行代码
+调用abort()
+Abort()函数位与头文件cstdlib中，典型实现是向标准错误流发送消息abnormal program termination，然后终止程序
+abort()是否刷新文件缓冲区取决于实现，如果愿意，也可以用exit()，该函数刷新文件缓冲区，但不显示消息

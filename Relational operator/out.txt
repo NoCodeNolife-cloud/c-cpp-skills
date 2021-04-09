@@ -1,0 +1,8 @@
+(a<b)=true
+(c<=b)=true
+(d>e)=false
+(e>=d)=true
+(b==c)=true
+(b!=c)=false
+
+time: 0.058

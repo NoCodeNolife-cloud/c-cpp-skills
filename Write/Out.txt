@@ -1,0 +1,16 @@
+Increasing loop index:
+K
+Ka
+Kan
+Kans
+Kansa
+Kansas
+Decreasing loop index:
+Kansas
+Kansa
+Kans
+Kan
+Ka
+K
+Exceeding string length:
+Kansas  Eup

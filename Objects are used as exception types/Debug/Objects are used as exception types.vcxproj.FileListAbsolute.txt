@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Workmanship\Objects are used as exception types\Debug\Objects are used as exception types.exe
+E:\项目\visual studio Project\Workmanship\Objects are used as exception types\Debug\Objects are used as exception types.pdb

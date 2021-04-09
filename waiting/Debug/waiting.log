@@ -1,0 +1,4 @@
+﻿  waiting.cpp
+E:\项目\visual studio Project\Workmanship\waiting\waiting.cpp(9,13): warning C4326: “main”的返回类型应为“int”而非“void”
+E:\项目\visual studio Project\Workmanship\waiting\waiting.cpp(16,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  waiting.vcxproj -> E:\项目\visual studio Project\Workmanship\waiting\Debug\waiting.exe

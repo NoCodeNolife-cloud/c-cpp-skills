@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Workmanship\模板类\An unconstrained template friend function of a template class\Debug\An unconstrained template friend function of a template class.exe
+E:\项目\visual studio Project\Workmanship\模板类\An unconstrained template friend function of a template class\Debug\An unconstrained template friend function of a template class.pdb

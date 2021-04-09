@@ -1,0 +1,39 @@
+Will you play a word game?<y/n> y
+Guess my secret word. It has 6 letters, and you guess
+one letter at a time. You get 6 wrong guesses.
+Your word: ------
+Guess a letter: v
+Oh, bad guess!
+Your word: ------
+Bad chioces: v
+5 bad guesses left
+Guess a letter: a
+Oh, bad guess!
+Your word: ------
+Bad chioces: va
+4 bad guesses left
+Guess a letter: w
+Good guess!
+Your word: w-----
+Bad chioces: va
+4 bad guesses left
+Guess a letter: h
+Good guess!
+Your word: wh----
+Bad chioces: va
+4 bad guesses left
+Guess a letter: e
+Good guess!
+Your word: whe--e
+Bad chioces: va
+4 bad guesses left
+Guess a letter: n
+Good guess!
+Your word: when-e
+Bad chioces: va
+4 bad guesses left
+Guess a letter: c
+Good guess!
+Your word: whence
+That's right!
+Will you play another? <y/n>

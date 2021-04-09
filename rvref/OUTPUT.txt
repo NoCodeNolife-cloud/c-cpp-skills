@@ -1,0 +1,6 @@
+tc value and address: 21.5, 0113FD30
+rd1 value and address: 7.07, 0113FD30
+rd2 value and address: 199.7, 0113FD30
+rd3 value and address: 93.1667, 0113FD30
+
+time: 0.155

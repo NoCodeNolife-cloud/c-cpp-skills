@@ -1,0 +1,5 @@
+bad_alloc异常和new
+
+对于使用new导致的内存分配问题，让new引发bad_alloc异常
+
+头文件new包含bad_alloc类的声明，是从exception类公有派生而来的

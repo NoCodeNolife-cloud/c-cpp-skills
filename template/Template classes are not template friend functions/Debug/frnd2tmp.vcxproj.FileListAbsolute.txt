@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Workmanship\frnd2tmp\Debug\Template classes are not template friend functions.exe
+E:\项目\visual studio Project\Workmanship\frnd2tmp\Debug\Template classes are not template friend functions.pdb

@@ -1,0 +1,9 @@
+Object created!
+using auto_ptr
+Object delected!
+Object created!
+using shared_ptr
+Object delected!
+Object created!
+using unique_ptr
+Object delected!

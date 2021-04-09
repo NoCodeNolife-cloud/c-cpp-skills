@@ -1,0 +1,16 @@
+Enter a string for getline() processing:
+please pass
+me a #3 melon!
+Here is your input:
+please pass
+me a
+Done with phase 1
+The next input character is 3
+Enter a string for get() processing:
+I still
+want my #3 melon!
+Here is your input:
+I still
+want my
+Done with phase 2
+The next input character is #

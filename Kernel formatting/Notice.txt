@@ -1,0 +1,1 @@
+istringstream和ostringstream类使得能够使用istream和ostream类的方法来管理存储在字符串中的字符数据。

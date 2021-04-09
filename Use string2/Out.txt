@@ -1,0 +1,9 @@
+Sizes:
+        empty: 0
+        small: 3
+        larger: 34
+Capacities:
+        empty: 15
+        small: 15
+        larger: 47
+Capacity after empty.reservs(50): 63
