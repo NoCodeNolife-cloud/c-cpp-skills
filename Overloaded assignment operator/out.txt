@@ -1,0 +1,9 @@
+cpointtwo:
+x = 25
+y = 26.3
+cpointtwo:
+x = 100
+y = 26.3
+cpointone:
+x = 100
+y = 26.3
