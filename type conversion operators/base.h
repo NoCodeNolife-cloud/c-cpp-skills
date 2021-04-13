@@ -7,7 +7,7 @@ namespace code {
 	protected:
 		int a;
 	public:
-		explicit Base(int paraa);
-		virtual void show();
+		explicit Base ( int paraa );
+		virtual void show ();
 	};
 }

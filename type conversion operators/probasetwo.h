@@ -8,7 +8,7 @@ namespace code {
 	protected:
 		int c;
 	public:
-		explicit ProBaseTwo(int paraa, int parac);
-		void show();
+		explicit ProBaseTwo ( int paraa , int parac );
+		void show ();
 	};
 }
