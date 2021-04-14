@@ -3,3 +3,5 @@ ppair.second = yeziyu
 map is 
 2 : liangjiawen
 4 : yangjingtao
+p_compair < p_compair_another
+60
