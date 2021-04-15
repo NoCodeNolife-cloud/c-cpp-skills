@@ -1,0 +1,50 @@
+max(short): 32767
+max(int): 2147483647
+max(long): 2147483647
+
+max(float): 3.40282e+38
+max(double): 1.79769e+308
+max(long double): 1.79769e+308
+
+is_signed(char): true
+
+is_specialized(string): false
+Minimum value for int: -2147483648
+Maximum value for int: 2147483647
+int is signed: true
+Non-sign bits in int: 31
+int has infinity: false
+Minimum value for float: 1.17549e-38
+Lowest value for float: -3.40282e+38
+Maximum value for float: 3.40282e+38
+float is signed: true
+Non-sign bits in float: 24
+float has infinity: true
+Minimum value for unsigned short: 0
+Maximum value for unsigned short: 65535
+is_specialized(float): true
+is_integer(float): false
+is_exact(float): false
+is_bounded(float): true
+is_modulo(float): false
+is_iec559(float): true
+digits10(float): 6
+radix(float): 2
+min_exponent(float): -125
+max_exponent(float): 128
+min_exponent10(float): -37
+max_exponent10(float): 38
+epsilon(float): 1.19209e-07
+round_style(float): 1
+The smallest nonzero denormalized value for float: 1.4013e-45
+The difference between 1 and the smallest value greater than 1 for float: 1.19209e-07
+Whether float objects allow denormalized values: 1
+Whether float objects can detect denormalized loss: false
+Whether float objects have quiet_NaN: true
+Whether float objects have a signaling_NaN: true
+The base for type float is:  2
+The maximum rounding error for type float is:  0.5
+The rounding style for a double type is: 1
+The signaling NaN for type float is:  nan
+Whether float types can detect tinyness before rounding: false
+Whether float types have implemented trapping: false

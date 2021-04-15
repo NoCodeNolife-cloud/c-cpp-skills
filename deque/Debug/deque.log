@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\项目\GitHub项目仓管\c-cpp-skills\deque\main.cpp(13,23): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\deque\main.cpp(17,21): warning C4018: “<”: 有符号/无符号不匹配
+  deque.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-skills\deque\Debug\deque.exe
