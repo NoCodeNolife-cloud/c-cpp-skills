@@ -1,0 +1,16 @@
+the A is
+0    1    2    3    4    5    6    7    8    9    
+A size is 10
+A = B , then the B is
+0    1    2    3    4    5    6    7    8    9    
+after delete B , the size is 0
+vec[5] = 5
+the first item is 0
+the second item is 9
+the A is
+2    0    1    2    3    4    5    6    7    8    9    
+the A is
+2    0    1    2    3    4    5    6    7    8    9    -1   -1   -1   -1   
+max_size(): 1073741823
+size(): 15
+capacity(): 19
