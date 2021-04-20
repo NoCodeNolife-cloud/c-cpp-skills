@@ -1,0 +1,61 @@
+map_less:
+0 41
+1 34
+2 69
+3 78
+4 62
+5 5
+6 81
+7 61
+8 95
+9 27
+map_less size is 10
+map_greater:
+9 36
+8 42
+7 91
+6 27
+5 45
+4 64
+3 58
+2 24
+1 0
+0 67
+map_greater size is 10
+map_greater:
+9 36
+8 42
+6 27
+5 45
+4 64
+3 58
+2 24
+1 0
+0 67
+map_greater size is 9
+map_greater:
+100 22
+50 22
+11 253
+9 36
+8 42
+6 27
+5 45
+4 64
+3 58
+2 24
+1 0
+0 67
+map_greater size is 12
+mul_map_less:
+1 3
+4 12
+4 8
+6 10
+11 25
+mul_map_less size is 12
+mul_map_less:
+1 3
+6 10
+11 25
+mul_map_less size is 12

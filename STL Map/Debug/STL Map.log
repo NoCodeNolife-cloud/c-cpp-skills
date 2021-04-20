@@ -1,2 +1,23 @@
-﻿  STL Map.cpp
-  STL Map.vcxproj -> E:\项目\c_plus_plus\Skills\STL Map\Debug\STL Map.exe
+﻿  map.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(193,54): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\STL Map\map.cpp(43): message : 查看对正在编译的函数 模板 实例化“std::pair<const int,int>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept”的引用
+          with
+          [
+              _Other1=int,
+              _Other2=double
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\STL Map\map.cpp(43): message : 查看对正在编译的函数 模板 实例化“std::pair<const int,int>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept”的引用
+          with
+          [
+              _Other1=int,
+              _Other2=double
+          ]
+  STL Map.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-skills\STL Map\Debug\STL Map.exe
