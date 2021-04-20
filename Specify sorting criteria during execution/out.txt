@@ -1,0 +1,4 @@
+coll1:	1 2 4 5 6 7 
+coll2:	7 6 5 4 2 1 
+coll1:	7 6 5 4 2 1 
+coll1 and coll2 have same sorting criterion
