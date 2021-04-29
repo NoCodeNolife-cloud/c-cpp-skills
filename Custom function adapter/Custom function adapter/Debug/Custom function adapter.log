@@ -1,0 +1,53 @@
+﻿  Custom function adapter.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\functional(400,43): warning C4244: “初始化”: 从“const _Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\Custom function adapter\Custom function adapter\Custom function adapter.cpp(23): message : 查看对正在编译的函数 模板 实例化“std::binder1st<fopow<float,int>> std::bind1st<fopow<float,int>,int>(const _Fn &,const _Ty &)”的引用
+          with
+          [
+              _Fn=fopow<float,int>,
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\algorithm(3372,24): warning C4244: “参数”: 从“float”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\Custom function adapter\Custom function adapter\Custom function adapter.cpp(23): message : 查看对正在编译的函数 模板 实例化“_OutIt std::transform<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::ostream_iterator<_Ty,char,std::char_traits<char>>,std::binder1st<fopow<float,int>>>(const _InIt,const _InIt,_OutIt,_Fn)”的引用
+          with
+          [
+              _OutIt=std::ostream_iterator<int,char,std::char_traits<char>>,
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Fn=std::binder1st<fopow<float,int>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\algorithm(3372,25): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\项目\GitHub项目仓管\c-cpp-skills\Custom function adapter\Custom function adapter\Custom function adapter.cpp(26): message : 查看对正在编译的函数 模板 实例化“_OutIt std::transform<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::ostream_iterator<_Ty,char,std::char_traits<char>>,std::binder2nd<fopow<float,int>>>(const _InIt,const _InIt,_OutIt,_Fn)”的引用
+          with
+          [
+              _OutIt=std::ostream_iterator<int,char,std::char_traits<char>>,
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Fn=std::binder2nd<fopow<float,int>>
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\Custom function adapter\Custom function adapter\Custom function adapter.cpp(10,19): warning C4244: “return”: 从“double”转换到“T1”，可能丢失数据
+          with
+          [
+              T1=float
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\Custom function adapter\Custom function adapter\Custom function adapter.cpp(9): message : 在编译 类 模板 成员函数“T1 fopow<T1,int>::operator ()(T1,T2) const”时
+          with
+          [
+              T1=float,
+              T2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\functional(416): message : 查看对正在编译的函数 模板 实例化“T1 fopow<T1,int>::operator ()(T1,T2) const”的引用
+          with
+          [
+              T1=float,
+              T2=int
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\Custom function adapter\Custom function adapter\Custom function adapter.cpp(23): message : 查看对正在编译的 类 模板 实例化“fopow<float,int>”的引用
+  Custom function adapter.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-skills\Custom function adapter\Debug\Custom function adapter.exe
