@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\项目\GitHub项目仓管\c-cpp-skills\STL set_intersection\STL set_intersection\main.cpp(6,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  STL set_intersection.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-skills\STL set_intersection\Debug\STL set_intersection.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL equal_range", "STL equal_range\STL equal_range.vcxproj", "{CAE5B99E-C766-431E-A2C4-D71A511E9A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE5B99E-C766-431E-A2C4-D71A511E9A55}.Debug|x64.ActiveCfg = Debug|x64
+		{CAE5B99E-C766-431E-A2C4-D71A511E9A55}.Debug|x64.Build.0 = Debug|x64
+		{CAE5B99E-C766-431E-A2C4-D71A511E9A55}.Debug|x86.ActiveCfg = Debug|Win32
+		{CAE5B99E-C766-431E-A2C4-D71A511E9A55}.Debug|x86.Build.0 = Debug|Win32
+		{CAE5B99E-C766-431E-A2C4-D71A511E9A55}.Release|x64.ActiveCfg = Release|x64
+		{CAE5B99E-C766-431E-A2C4-D71A511E9A55}.Release|x64.Build.0 = Release|x64
+		{CAE5B99E-C766-431E-A2C4-D71A511E9A55}.Release|x86.ActiveCfg = Release|Win32
+		{CAE5B99E-C766-431E-A2C4-D71A511E9A55}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E660F87A-F6F3-43CC-AA62-81356435773B}
+	EndGlobalSection
+EndGlobal
