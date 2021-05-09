@@ -1,0 +1,18 @@
+﻿  STL fill and fill_n.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xutility(4939,27): warning C4244: “参数”: 从“const _Ty”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+E:\项目\GitHub项目仓管\c-cpp-skills\STL fill and fill_n\STL fill and fill_n\STL fill and fill_n.cpp(24): message : 查看对正在编译的函数 模板 实例化“_OutIt std::fill_n<std::ostream_iterator<int,char,std::char_traits<char>>,int,double>(_OutIt,const _Diff,const _Ty &)”的引用
+          with
+          [
+              _OutIt=std::ostream_iterator<int,char,std::char_traits<char>>,
+              _Diff=int,
+              _Ty=double
+          ]
+  STL fill and fill_n.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-skills\STL fill and fill_n\Debug\STL fill and fill_n.exe
