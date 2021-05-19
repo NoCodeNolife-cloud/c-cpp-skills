@@ -1,0 +1,3 @@
+﻿  STL partial_sort.cpp
+E:\项目\GitHub项目仓管\c-cpp-skills\STL partial_sort\STL partial_sort\STL partial_sort.cpp(23,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  STL partial_sort.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-skills\STL partial_sort\Debug\STL partial_sort.exe
