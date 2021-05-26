@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\string_compare.dir/objects.a
+D:\CLION2~1.1\mingw64\bin\ar.exe cr CMakeFiles\string_compare.dir/objects.a @CMakeFiles\string_compare.dir\objects1.rsp
+D:\CLION2~1.1\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\string_compare.dir/objects.a -Wl,--no-whole-archive -o string_compare.exe -Wl,--out-implib,libstring_compare.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\string_compare.dir\linklibs.rsp
