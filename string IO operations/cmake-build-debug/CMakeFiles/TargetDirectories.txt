@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/c-cpp-skills/string IO operations/cmake-build-debug/CMakeFiles/string_IO_operations.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/string IO operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/string IO operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

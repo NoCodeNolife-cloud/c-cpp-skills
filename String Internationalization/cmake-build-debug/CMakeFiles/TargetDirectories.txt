@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/c-cpp-skills/String Internationalization/cmake-build-debug/CMakeFiles/String_Internationalization.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/String Internationalization/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/String Internationalization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
