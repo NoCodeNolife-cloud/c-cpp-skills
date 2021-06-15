@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Customize the Output operator/Fraction.cpp
+Fraction.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Customize the Output operator/Fraction.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Customize the Output operator/Fraction.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Customize the Output operator/main.cpp
+iostream
+-
+sstream
+-
+iomanip
+-
+Fraction.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Customize the Output operator/Fraction.h
+

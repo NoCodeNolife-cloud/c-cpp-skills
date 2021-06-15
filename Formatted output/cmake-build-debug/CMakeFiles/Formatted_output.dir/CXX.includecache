@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Formatted output/Person.cpp
+Person.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Formatted output/Person.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Formatted output/Person.h
+iostream
+-
+string
+-
+iomanip
+-
+

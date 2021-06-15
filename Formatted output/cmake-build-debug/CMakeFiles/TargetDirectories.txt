@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Formatted output/cmake-build-debug/CMakeFiles/Formatted_output.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Formatted output/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Formatted output/cmake-build-debug/CMakeFiles/rebuild_cache.dir

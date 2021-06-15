@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Custom Input operator/cmake-build-debug/CMakeFiles/Custom_Input_operator.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Custom Input operator/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Custom Input operator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
