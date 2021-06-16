@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined stream buffer/basic_outbuf.h
+streambuf
+-
+locale
+-
+cstdlib
+-
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined stream buffer/fdoutbuf.cpp
+fdoutbuf.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined stream buffer/fdoutbuf.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined stream buffer/fdoutbuf.h
+iostream
+-
+streambuf
+-
+cstdio
+-
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined stream buffer/main.cpp
+iostream
+-
+basic_outbuf.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined stream buffer/basic_outbuf.h
+fdoutbuf.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined stream buffer/fdoutbuf.h
+

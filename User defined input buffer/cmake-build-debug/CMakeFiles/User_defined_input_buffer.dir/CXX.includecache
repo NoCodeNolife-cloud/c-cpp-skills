@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined input buffer/inbuf.cpp
+io.h
+-
+inbuf.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined input buffer/inbuf.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/User defined input buffer/inbuf.h
+cstdio
+-
+cstring
+-
+streambuf
+-
+
