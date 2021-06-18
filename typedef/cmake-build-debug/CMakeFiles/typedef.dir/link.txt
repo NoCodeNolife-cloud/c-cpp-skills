@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\typedef.dir/objects.a
+D:\CLION2~1.1\mingw64\bin\ar.exe cr CMakeFiles\typedef.dir/objects.a @CMakeFiles\typedef.dir\objects1.rsp
+D:\CLION2~1.1\mingw64\bin\G__~1.EXE  -Wall -fexec-charset=GBK -g -static -Wl,--whole-archive CMakeFiles\typedef.dir/objects.a -Wl,--no-whole-archive -o typedef.exe -Wl,--out-implib,libtypedef.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\typedef.dir\linklibs.rsp
