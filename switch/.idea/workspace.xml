@@ -6,9 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="205b0157-8cab-4d1b-9902-1d78be2626a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Use stream buffer directly/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Use stream buffer directly/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-    </list>
+    <list default="true" id="205b0157-8cab-4d1b-9902-1d78be2626a6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624011677215</updated>
       <workItem from="1624011678591" duration="79000" />
+      <workItem from="1624020426468" duration="7000" />
     </task>
     <servers />
   </component>

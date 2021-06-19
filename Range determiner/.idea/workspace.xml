@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5167df2-ea5c-4097-92b8-1e8cca8a1f6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Use stream buffer directly/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Use stream buffer directly/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../switch/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624010262166</updated>
       <workItem from="1624010263720" duration="79000" />
+      <workItem from="1624020440164" duration="14000" />
     </task>
     <servers />
   </component>
