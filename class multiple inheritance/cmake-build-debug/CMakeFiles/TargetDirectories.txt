@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/cmake-build-debug/CMakeFiles/class_multiple_inheritance.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

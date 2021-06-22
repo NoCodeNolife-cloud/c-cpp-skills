@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/A.cpp
+A.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/A.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/A.h
+iostream
+-
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/B.cpp
+B.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/B.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/B.h
+iostream
+-
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/C.cpp
+C.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/C.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/C.h
+iostream
+-
+A.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/A.h
+B.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/B.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/main.cpp
+iostream
+-
+C.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class multiple inheritance/C.h
+

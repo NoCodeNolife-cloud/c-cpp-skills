@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\C_file_operation.dir/objects.a
+D:\CLION2~1.1\mingw64\bin\ar.exe cr CMakeFiles\C_file_operation.dir/objects.a @CMakeFiles\C_file_operation.dir\objects1.rsp
+D:\CLION2~1.1\mingw64\bin\G__~1.EXE -g -static -Wl,--whole-archive CMakeFiles\C_file_operation.dir/objects.a -Wl,--no-whole-archive -o C_file_operation.exe -Wl,--out-implib,libC_file_operation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C_file_operation.dir\linklibs.rsp

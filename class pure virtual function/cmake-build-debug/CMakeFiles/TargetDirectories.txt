@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class pure virtual function/cmake-build-debug/CMakeFiles/class_pure_virtual_function.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class pure virtual function/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class pure virtual function/cmake-build-debug/CMakeFiles/rebuild_cache.dir

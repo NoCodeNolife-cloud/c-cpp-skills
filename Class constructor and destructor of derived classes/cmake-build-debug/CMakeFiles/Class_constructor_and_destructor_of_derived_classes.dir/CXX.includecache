@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Class constructor and destructor of derived classes/Base.h
+iostream
+-
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Class constructor and destructor of derived classes/PlusBase.cpp
+PlusBase.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Class constructor and destructor of derived classes/PlusBase.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Class constructor and destructor of derived classes/PlusBase.h
+iostream
+-
+Base.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Class constructor and destructor of derived classes/Base.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Class constructor and destructor of derived classes/main.cpp
+iostream
+-
+PlusBase.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/Class constructor and destructor of derived classes/PlusBase.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class friend/Data.h
+ostream
+-
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class friend/FriendClass.h
+iostream
+-
+Data.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class friend/Data.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class friend/main.cpp
+iostream
+-
+Data.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class friend/Data.h
+FriendClass.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class friend/FriendClass.h
+

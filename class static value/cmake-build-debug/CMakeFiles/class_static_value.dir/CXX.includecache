@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class static value/Num.cpp
+Num.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class static value/Num.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class static value/Num.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class static value/main.cpp
+iostream
+-
+Num.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class static value/Num.h
+
