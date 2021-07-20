@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Base.cpp
+Base.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Base.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Base.h
+ostream
+-
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Plus.cpp
+Plus.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Plus.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Plus.h
+ostream
+-
+Base.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Base.h
+
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/main.cpp
+iostream
+-
+Base.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Base.h
+Plus.h
+E:/programe/GitHub project warehouse manager/c-cpp-skills/class template inherit/Plus.h
+
