@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="class_template_inherit" targetName="class_template_inherit" />
-    </generated>
-  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="941455eb-b21c-45e6-bdb0-7768fc4829f6" name="Default Changelist" comment="" />
+    <list default="true" id="53fa4f15-0e3e-4975-81c4-e9486fd6a597" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +15,10 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1vZqmwyILxhgIdoFGTURmLKtrr9" />
+  <component name="ProjectId" id="1vbfZ6rbRNegX5bc88NPRF0QlVl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,32 +32,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="cmake.loaded.for.project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunManager">
-    <configuration name="class_template_inherit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="class_template_inherit" TARGET_NAME="class_template_inherit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="class_template_inherit" RUN_TARGET_NAME="class_template_inherit">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="941455eb-b21c-45e6-bdb0-7768fc4829f6" name="Default Changelist" comment="" />
-      <created>1626780120803</created>
+      <changelist id="53fa4f15-0e3e-4975-81c4-e9486fd6a597" name="Default Changelist" comment="" />
+      <created>1626835761623</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1626780120803</updated>
-      <workItem from="1626780122203" duration="150000" />
-      <workItem from="1626784480831" duration="2414000" />
-      <workItem from="1626791089216" duration="2722000" />
+      <updated>1626835761623</updated>
+      <workItem from="1626835762887" duration="45000" />
     </task>
     <servers />
   </component>

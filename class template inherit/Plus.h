@@ -14,7 +14,7 @@ public:
     Base<T> base;
     T y;
 
-    Plus(T x, T y) : Base<T>(x), y(y) {}
+    Plus(T x, T y) : base(x), y(y) {}
 
 };
 
