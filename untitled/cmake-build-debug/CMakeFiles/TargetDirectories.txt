@@ -1,3 +1,0 @@
-H:/programe/GitHub project warehouse manager/c-cpp-skills/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/programe/GitHub project warehouse manager/c-cpp-skills/untitled/cmake-build-debug/CMakeFiles/untitled.dir
-H:/programe/GitHub project warehouse manager/c-cpp-skills/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
