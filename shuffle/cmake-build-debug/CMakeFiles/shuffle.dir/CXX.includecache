@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/shuffle/main.cpp
+iostream
+-
+algorithm
+-
+array
+-
+random
+-
+chrono
+-
+
