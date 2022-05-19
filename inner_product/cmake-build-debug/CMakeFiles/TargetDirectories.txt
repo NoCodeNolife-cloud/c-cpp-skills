@@ -1,0 +1,3 @@
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/inner_product/cmake-build-debug/CMakeFiles/inner_product.dir
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/inner_product/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/inner_product/cmake-build-debug/CMakeFiles/rebuild_cache.dir

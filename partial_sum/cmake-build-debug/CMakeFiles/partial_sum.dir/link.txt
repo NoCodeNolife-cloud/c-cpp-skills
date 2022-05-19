@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\partial_sum.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\partial_sum.dir/objects.a @CMakeFiles\partial_sum.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\partial_sum.dir/objects.a -Wl,--no-whole-archive -o partial_sum.exe -Wl,--out-implib,libpartial_sum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\partial_sum.dir\linklibs.rsp
