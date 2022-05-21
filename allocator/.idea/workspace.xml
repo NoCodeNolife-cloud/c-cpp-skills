@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="partition" targetName="partition" />
+      <config projectName="allocator" targetName="allocator" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8c36049-bb00-47f5-85ba-0dd5d4bbac0d" name="Changes" comment="" />
+    <list default="true" id="19c46ffc-2ee3-4f63-8877-e53eb8e7ce94" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +21,10 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="ProjectId" id="29KxosqW9IZGdg93T5kAMZgQLwR" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/allocator.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="29QkDjUpi1TQneBOSnvgz48BbiY" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,8 +41,11 @@
     <property name="cmake.loaded.for.project" value="true" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
   </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="RunManager">
-    <configuration name="partition" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="partition" TARGET_NAME="partition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="partition" RUN_TARGET_NAME="partition">
+    <configuration name="allocator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="allocator" TARGET_NAME="allocator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="allocator" RUN_TARGET_NAME="allocator">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -53,13 +59,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e8c36049-bb00-47f5-85ba-0dd5d4bbac0d" name="Changes" comment="" />
-      <created>1652875755747</created>
+      <changelist id="19c46ffc-2ee3-4f63-8877-e53eb8e7ce94" name="Changes" comment="" />
+      <created>1653052579159</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652875755747</updated>
-      <workItem from="1652875758596" duration="900000" />
-      <workItem from="1653097256737" duration="5000" />
+      <updated>1653052579159</updated>
+      <workItem from="1653052583489" duration="28000" />
+      <workItem from="1653053454805" duration="9766000" />
+      <workItem from="1653097334557" duration="4570000" />
     </task>
     <servers />
   </component>
