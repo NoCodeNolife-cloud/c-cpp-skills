@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ifstream_rdbuf.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\ifstream_rdbuf.dir/objects.a @CMakeFiles\ifstream_rdbuf.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ifstream_rdbuf.dir/objects.a -Wl,--no-whole-archive -o ifstream_rdbuf.exe -Wl,--out-implib,libifstream_rdbuf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ifstream_rdbuf.dir\linklibs.rsp

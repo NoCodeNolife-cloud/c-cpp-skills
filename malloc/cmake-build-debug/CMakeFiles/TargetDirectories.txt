@@ -1,0 +1,3 @@
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/malloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/malloc/cmake-build-debug/CMakeFiles/malloc.dir
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/malloc/cmake-build-debug/CMakeFiles/edit_cache.dir
