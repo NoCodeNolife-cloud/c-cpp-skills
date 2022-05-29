@@ -1,0 +1,3 @@
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/overloading operator ++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/overloading operator ++/cmake-build-debug/CMakeFiles/overloading_operator___.dir
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/overloading operator ++/cmake-build-debug/CMakeFiles/edit_cache.dir
