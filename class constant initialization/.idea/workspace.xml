@@ -36,12 +36,13 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/StateOfDecay2/Saved/Steam/76561197960267366/8877665544332222/Release/v2/SaveGame0.sav" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="class_constant_initialization" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="class_constant_initialization" TARGET_NAME="class_constant_initialization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="class_constant_initialization" RUN_TARGET_NAME="class_constant_initialization">
@@ -64,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653569673793</updated>
       <workItem from="1653569675590" duration="1074000" />
+      <workItem from="1654669165710" duration="180000" />
     </task>
     <servers />
   </component>
