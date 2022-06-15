@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/load  dll function/main.cpp
+tchar.h
+-
+iostream
+-
+windows.h
+-
+winternl.h
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/CreateThread/main.cpp
+Windows.h
+-
+iostream
+-
+tchar.h
+-
+
