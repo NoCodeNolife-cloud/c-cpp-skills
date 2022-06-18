@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/ConcurrentFileCopy/ConcurrentFileCopy.cpp
+ConcurrentFileCopy.h
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/ConcurrentFileCopy/ConcurrentFileCopy.h
+
+H:/programe/GitHub-project-warehouse-manager/c-cpp-skills/ConcurrentFileCopy/ConcurrentFileCopy.h
+windows.h
+-
+commctrl.h
+-
+memory.h
+-
+tchar.h
+-
+cmath
+-
+
